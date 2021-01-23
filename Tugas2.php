@@ -1,5 +1,5 @@
 <?php
-   interface mouse{
+   interface lampu sen{
      public function sen kanan();
      piblic function sen kiri();
    }
